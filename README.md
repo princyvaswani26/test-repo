@@ -1,2 +1,2 @@
-# test-repo
-testing repository
+# projects repo
+my projects 
